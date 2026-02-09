@@ -3,6 +3,7 @@
 ## Quick Start (Read This First)
 1. **Install Python 3.11+** from [python.org/downloads](https://www.python.org/downloads/).
    - During install, check **“Add python.exe to PATH”** if prompted.
+   - If you missed it: re-run the installer, choose **Modify**, then check **Add Python to PATH**.
 2. **Double‑click** `run_20250519_logActivity_rev2_self_healing.bat` in this folder.
    - It **creates a virtual environment** and **installs required packages** automatically the first time.
 3. Follow the on‑screen prompts in the terminal window that opens.
